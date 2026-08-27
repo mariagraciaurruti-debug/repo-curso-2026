@@ -1,0 +1,634 @@
+[?2004h]0;MINGW64:/c/Users/maria/curso-e520
+[32mmaria@MariaGracia [35mMINGW64 [33m~/curso-e520[36m (master)[0m
+$ pwd
+[?2004l/c/Users/maria/curso-e520
+[?2004h]0;MINGW64:/c/Users/maria/curso-e520
+[32mmaria@MariaGracia [35mMINGW64 [33m~/curso-e520[36m (master)[0m
+$ cd /
+[?2004l[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ pwd
+[?2004l/
+[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd home
+[?2004lbash: cd: home: No such file or directory
+[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd /home
+[?2004lbash: cd: /home: No such file or directory
+[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd ~
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd ..
+[?2004l[?2004h]0;MINGW64:/c/Users
+[32mmaria@MariaGracia [35mMINGW64 [33m/c/Users[36m[0m
+$ pwd
+[?2004l/c/Users
+[?2004h]0;MINGW64:/c/Users
+[32mmaria@MariaGracia [35mMINGW64 [33m/c/Users[36m[0m
+$ cd ../..
+[?2004l[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ pwd
+[?2004l/
+[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ pwd
+[?2004l/c/Users/maria
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd ../../etc
+[?2004lbash: cd: ../../etc: No such file or directory
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd /etc
+[?2004l[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ pwd
+[?2004l/etc
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cd /
+[?2004l[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd etc
+[?2004l[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ pwd
+[?2004l/etc
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cd
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ pwd
+[?2004l/c/Users/maria
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd etc
+[?2004lbash: cd: etc: No such file or directory
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd /etc
+[?2004l[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ pe[Kwd
+[?2004l/etc
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ whoami
+[?2004lmaria
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cd /home/user/Desktop
+[?2004lbash: cd: /home/user/Desktop: No such file or directory
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cd /c/users/maria/Desktop
+[?2004l[?2004h]0;MINGW64:/c/users/maria/Desktop
+[32mmaria@MariaGracia [35mMINGW64 [33m/c/users/maria/Desktop[36m[0m
+$ pwd
+[?2004l/c/users/maria/Desktop
+[?2004h]0;MINGW64:/c/users/maria/Desktop
+[32mmaria@MariaGracia [35mMINGW64 [33m/c/users/maria/Desktop[36m[0m
+$ cd ~
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ pwd
+[?2004l/c/Users/maria
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd ~/Desktop
+[?2004l[?2004h]0;MINGW64:/c/Users/maria/Desktop
+[32mmaria@MariaGracia [35mMINGW64 [33m~/Desktop[36m[0m
+$ pwd
+[?2004l/c/Users/maria/Desktop
+[?2004h]0;MINGW64:/c/Users/maria/Desktop
+[32mmaria@MariaGracia [35mMINGW64 [33m~/Desktop[36m[0m
+$ cd
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd /
+[?2004l[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd ~/Desktop
+[?2004l[?2004h]0;MINGW64:/c/Users/maria/Desktop
+[32mmaria@MariaGracia [35mMINGW64 [33m~/Desktop[36m[0m
+$ cd /etc
+[?2004l[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cd /var/llog[K[K[K[Klog
+[?2004lbash: cd: /var/log: No such file or directory
+[?2004h]0;MINGW64:/etc
+[32mmaria@MariaGracia [35mMINGW64 [33m/etc[36m[0m
+$ cs[Kd ..
+[?2004l[?2004h]0;MINGW64:/
+[32mmaria@MariaGracia [35mMINGW64 [33m/[36m[0m
+$ cd
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ mkdir /tmp/tutorial
+[?2004lmkdir: cannot create directory ‘/tmp/tutorial’: File exists
+[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ mkdir /tmp/tutoria01[K[Kl01
+[?2004l[?2004h]0;MINGW64:/c/Users/maria
+[32mmaria@MariaGracia [35mMINGW64 [33m~[36m[0m
+$ cd /tmp/tutorial01
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ pwd
+[?2004l/tmp/tutorial01
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir dir01 dir02 dir03
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir
+[?2004lmkdir: missing operand
+Try 'mkdir --help' for more information.
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cd /etc +[K~/Desktop
+[?2004lbash: cd: too many arguments
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004ldir01/
+dir02/
+dir03/
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir -p dir04/dir05/dir06
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004ldir01/
+dir02/
+dir03/
+dir04/
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cd dir04
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01/dir04
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01/dir04[36m[0m
+$ ls
+[?2004ldir05/
+[?2004h]0;MINGW64:/tmp/tutorial01/dir04
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01/dir04[36m[0m
+$ cd dir05
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01/dir04/dir05
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01/dir04/dir05[36m[0m
+$ ls
+[?2004ldir06/
+[?2004h]0;MINGW64:/tmp/tutorial01/dir04/dir05
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01/dir04/dir05[36m[0m
+$ cd ../..
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir another of[K[Kfolder
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004lanother/
+dir01/
+dir02/
+dir03/
+dir04/
+folder/
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir "folder 01"[1P[C[C
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir ´folder 2´
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ md[Kkdir folder/3[K 3
+[?2004lmkdir: cannot create directory ‘folder/’: File exists
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir dolder[K[K[K[K[K[Kfolder ¿0/[K[K[K[K0/ 3
+[?2004lmkdir: cannot create directory ‘3’: File exists
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir folder0/ 03
+[?2004lmkdir: cannot create directory ‘folder0/’: File exists
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ "[Kmkdir "folder 3"
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir "dolder 4" "[C[1P[1@f[C[C[C[C[C[C[C[C[C[C[?5h[?5l[?5h[?5lfolder 5"
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mkdir -p "folder 6"/"folder 7"
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+another/
+dir01/
+dir02/
+dir03/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls > output.txy[Kt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat output.txt
+[?2004l´folder/
+03/
+2´/
+3/
+another/
+dir01/
+dir02/
+dir03/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat
+[?2004lhello 
+
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "This is a test"
+[?2004lThis is a test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "This is a test" > test_1.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "This is a second test" > test_2.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "This is a third test" > e[Ktest_3.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls 
+[?2004l´folder/
+03/
+2´/
+3/
+another/
+dir01/
+dir02/
+dir03/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+test_1.txt
+test_2.txt
+test_3.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_1.txt test2.[K_2.txt test_3.txt[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_1[K[K[K[K[K[K[K[K[K[K[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lcat test_?.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_*
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat t* > combined.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat combined.txt[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cest_*[K?.txt[22@1.txt test_2.txt test_3[C[C[C[C[C[Cls [Kecho "This is a third test" > test_3.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@second test" > test_2[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pthird test" > test_3[C[C[C[C[C[Cls [Kcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_1.txt test_2.txt test_3.txt[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cest_*[K?.txt[22@1.txt test_2.txt test_3[C[C[C[C[C[Cls [Kcat test_1.txt test_2.txt test_3.txt[C[C[C[C[C[C[C[C[C[C[C?.txt[K
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat t* >> combined.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "I´ve appended a line!" >> combined.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I´ve appended a line!
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat combined.txt[C[C[28@echo "I´ve appended a line!" >>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pcat t*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pest_?[C[C[C[C[22@1.txt test_2.txt test_3[C[C[C[C[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cest_*[K?.txt[22@1.txt test_2.txt test_3[C[C[C[C[C[Cls [Kcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_1.txt test_2.txt test_3.txt[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[28@echo "I´ve appended a line!" >>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pcat t*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pest_?[C[C[C[C[22@1.txt test_2.txt test_3[C[C[C[C[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cest_*[K?.txt[22@1.txt test_2.txt test_3[C[C[C[C[C[Cls [Kecho "This is a third test" > test_3.txt[C[Cls [Kcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cat test_1.txt test_2.txt test_3.txt[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[28@echo "I´ve appended a line!" >>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pcat t*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pest_?[C[C[C[C[22@1.txt test_2.txt test_3[C[C[C[C[C[C[C[C[C[C[20Pcombined[C[C[C[C[C[C[C[C[C[C[5@t* > [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cest_*[K?.txt[22@1.txt test_2.txt test_3[C[C[C[C[C[Cls [Kcat test_1.txt test_2.txt test_3.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo
+[?2004l
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo
+[?2004l
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ less combined.txt
+[?2004lThis is a test
+This is a second test
+This is a third test
+This is a test
+This is a second test
+This is a third test
+I´ve appended a line!
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "Lower case" > a.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "Upper case[K[K[K[K[K case" > A.TXT
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ echo "Mixed case" > A.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv combined.txt dir01
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls dir1[K01
+[?2004lcombined.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv dir01/* .
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv combined.txt test_* dir3 dir2
+[?2004lmv: target 'dir2' is not a directory
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv combined ¿[K[K.txt test_* dir03 dir02
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+dir01/
+dir02/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls dir02
+[?2004lcombined.txt
+dir03/
+test_1.txt
+test_2.txt
+test_3.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv dir02/combined.txt dir04/dir05/dir06
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls dir02
+[?2004ldir03/
+test_1.txt
+test_2.txt
+test_3.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls dir04/dir05/dir06
+[?2004lcombined.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cp dir04/dir05/dir06/combined.txt .
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls dir04/dir05/dir06
+[?2004lcombined.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+combined.txt
+dir01/
+dir02/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv backup_combined.tx [Kt combined_backup.txt
+[?2004lmv: cannot stat 'backup_combined.txt': No such file or directory
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ cp combined.txt c[Kbackup_combined.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+backup_combined.txt
+combined.txt
+dir01/
+dir02/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv backup_combined.txt combined_backup.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+combined.txt
+combined_backup.txt
+dir01/
+dir02/
+dir04/
+folder/
+folder 1/
+folder 3/
+folder 4/
+folder 5/
+folder 6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv "folder 1" folder_1
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv "folder 2" folder:[K_2
+[?2004lmv: cannot stat 'folder 2': No such file or directory
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv "folder 3" folder_3
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv "folder 4" folder_4
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ mv "folder 5" folder_5
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ fo[K[Kmv "folder 6" folder_6
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+combined.txt
+combined_backup.txt
+dir01/
+dir02/
+dir04/
+folder/
+folder_1/
+folder_3/
+folder_4/
+folder_5/
+folder_6/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ rm dir04/dir05/dir06/combined.txt combined_backup.txt
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ rm folder_*
+[?2004lrm: cannot remove 'folder_1': Is a directory
+rm: cannot remove 'folder_3': Is a directory
+rm: cannot remove 'folder_4': Is a directory
+rm: cannot remove 'folder_5': Is a directory
+rm: cannot remove 'folder_6': Is a directory
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ rmdir folder_* [K
+[?2004lrmdir: failed to remove 'folder_6': Directory not empty
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ rm -r folder_6
+[?2004l[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ ls
+[?2004l´folder/
+03/
+2´/
+3/
+a.txt
+another/
+combined.txt
+dir01/
+dir02/
+dir04/
+folder/
+folder0/
+output.txt
+[?2004h]0;MINGW64:/tmp/tutorial01
+[32mmaria@MariaGracia [35mMINGW64 [33m/tmp/tutorial01[36m[0m
+$ exit
+[?2004llogout
